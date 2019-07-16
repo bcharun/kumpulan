@@ -1,7 +1,7 @@
-Nama;Kota Asal;Kota Domisili;Status Keanggotaan
-Abdur;Soe;Surabaya;Silver
-Bambang;Klaten;Bandung;Bronze
-Cecep Reja ;Palopo;Semarang;Gold
-Dudung;Majalengka;Jakarta;Bronze
-Endank Soekamti;Trenggalek;Jakarta;Gold
-Frans Kaisepo;Biak;Yogyakarta;Platinum
+Nama,KotaAsal,KotaDomisili,Status
+Abdur,Soe,Surabaya,Silver
+Bambang,Klaten,Bandung,Bronze
+Cecep Reja,Palopo,Semarang,Gold
+Dudung,Majalengka,Jakarta,Bronze
+Endank Soekamti,Trenggalek,Jakarta,Gold
+Frans Kaisepo,Biak,Yogyakarta,Platinum
